@@ -1,0 +1,504 @@
+*{
+    padding: 0;
+    margin: 0;
+     
+
+}
+html,body{
+    padding: 0;
+    margin: 0;
+}
+
+ .section-1{
+    width: 100%;
+    height: 100vh;
+    background:#fff;
+    
+     /* background-image: url(img/Homepage-Model-3-Desktop-LHD-v2.avif); */
+    display: flex;
+     
+ }
+
+
+
+ .section-1 img{
+    width:inherit;
+    
+    box-sizing: border-box;
+
+ }
+
+
+
+
+
+ .nav-bar{
+    width: 100%;
+    height: 10%;
+    background:transparent;
+    position: absolute;
+    display: flex;
+    align-items: center;
+  
+ }
+ .logo{
+    width: 120px;
+    height: 24px;
+    padding-left: 32px;
+    letter-spacing: 1;
+
+
+ }
+ .options{
+
+    position: absolute;
+    display: flex;
+    left: 450px;
+    
+ }
+ .vehicle{
+    padding: 10px;
+   cursor: pointer;
+   position: relative;
+ }
+  
+ 
+ .Energy{
+    padding: 10px;
+ }
+ .Charging{
+    padding: 10px;
+ }
+ .discover{
+    padding: 10px;
+ }
+ .shop{
+    padding: 10px;
+ }
+ .profiles{
+    width: 140px;
+    display: flex;
+ position: absolute;
+ justify-content: space-evenly;
+ right: 10px;
+    height: 24px;
+ }
+ .section-1 .btn{
+    width: 552px;
+    height: 40px;
+    position: absolute;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    left: 300px;
+   padding:4px 24px;
+    top: 500px;
+
+
+ }
+ .lang{
+    height: 31px;
+    width: 23px;
+    
+ }
+ .qstn{
+    height: 31px;
+    width: 23px;
+    
+ }
+ .profil{
+    height: 31px;
+    width: 23px;
+    
+ }
+ /* ----------------------  section  two  -------------------------------------------- */
+
+.section2{
+height:100vh;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items:center; 
+}
+.section2 img{
+width: 100%;
+height: 100%;
+}
+.Order{    
+ width: 210px;
+ height: 30px;
+}
+.demo{
+width: 210px;
+height: 30px;
+background: black ;
+color: #fff;
+}
+.section2 .btns{
+position: absolute; 
+width: 552px;
+height: 40px;   
+display: flex;
+justify-content: space-evenly;
+left: 26%;
+ top: 180%;
+}
+/* -----section----------- */
+
+.section3{
+    height:100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center; 
+    }
+    .section3 img{
+    width: 100%;
+    height: 100%;
+    }
+    .Order3{    
+     width: 210px;
+     height: 30px;
+    }
+    .demo3{
+    width: 210px;
+    height: 30px;
+    background: black ;
+    color: #fff;
+    }
+    .section3 .btns3{
+    position: absolute; 
+    width: 552px;
+    height: 40px;   
+    display: flex;
+    justify-content: space-evenly;
+    left: 28%;
+     top: 280%;
+    }
+    /* --------section4--------- */
+
+    .section4{
+        height:100vh;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items:center; 
+        }
+        .section4 img{
+        width: 100%;
+        height: 100%;
+        }
+        .Order4{    
+         width: 210px;
+         height: 30px;
+        }
+        .demo4{
+        width: 210px;
+        height: 30px;
+        background: black ;
+        color: #fff;
+        }
+        .section4 .btns4{
+        position: absolute; 
+        width: 552px;
+        height: 40px;   
+        display: flex;
+        justify-content: space-evenly;
+        left: 28%;
+         top: 380%;
+        }
+        /* ---------------section 5------ */
+
+
+        .section5{
+            height:100vh;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items:center; 
+            }
+            .section5 img{
+            width: 100%;
+            height: 100%;
+            }
+            .Order5{    
+             width: 210px;
+             height: 30px;
+            }
+            .demo5{
+            width: 210px;
+            height: 30px;
+            background: black ;
+            color: #fff;
+            }
+            .section5 .btns5{
+            position: absolute; 
+            width: 552px;
+            height: 40px;   
+            display: flex;
+            justify-content: space-evenly;
+            left: 28%;
+             top: 480%;
+            }
+            /* --------------section--6----------- */
+
+            .section6{
+                height:100vh;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items:center; 
+                }
+                .section6 img{
+                width: 100%;
+                height: 100%;
+                }
+                .Order6{    
+                 width: 210px;
+                 height: 30px;
+                }
+                .demo6{
+                width: 210px;
+                height: 30px;
+                background: black ;
+                color: #fff;
+                }
+                .section6 .btns6{
+                position: absolute; 
+                width: 552px;
+                height: 40px;   
+                display: flex;
+                justify-content: space-evenly;
+                left: 28%;
+                 top: 580%;
+                }
+                /* ------------------section7- */
+
+
+                .section7{
+                    height:100vh;
+                    width: 100%;
+                    display: flex;
+                    justify-content: center;
+                    align-items:center; 
+                    }
+                    .section7 img{
+                    width: 100%;
+                    height: 100%;
+                    }
+                    .Order7{    
+                     width: 210px;
+                     height: 30px;
+                    }
+                    .demo7{
+                    width: 210px;
+                    height: 30px;
+                    background: black ;
+                    color: #fff;
+                    }
+                    .section7 .btns7{
+                    position: absolute; 
+                    width: 552px;
+                    height: 40px;   
+                    display: flex;
+                    justify-content: space-evenly;
+                    left: 28%;
+                     top: 680%;
+                    }
+                    /* -------------section8----------------------- */
+
+                    .section8{
+                        height:100vh;
+                        width: 100%;
+                        display: flex;
+                        justify-content: center;
+                        align-items:center; 
+                        }
+                        .section8 img{
+                        width: 100%;
+                        height: 100%;
+                        }
+                        .Order8{    
+                         width: 210px;
+                         height: 30px;
+                        }
+                        .demo8{
+                        width: 210px;
+                        height: 30px;
+                        background: black ;
+                        color: #fff;
+                        }
+                        .section8 .btns8{
+                        position: absolute; 
+                        width: 552px;
+                        height: 40px;   
+                        display: flex;
+                        justify-content: space-evenly;
+                        left: 28%;
+                         top: 780%;
+                        }
+                        /* ---section-9----------------------------------------------------------------------- */
+                        .section9{
+                            height:100vh;
+                            width: 100%;
+                            display: flex;
+                            justify-content: center;
+                            align-items:center; 
+                            }
+                            .section9 img{
+                            width: 100%;
+                            height: 100%;
+                            }
+                            .Order9{    
+                             width: 220px;
+                             height: 45px;
+                            }
+                            .demo9{
+                            width: 210px;
+                            height: 30px;
+                            background: black ;
+                            color: #fff;
+                            }
+                            .section9 .btns9{
+                            position: absolute; 
+                            width: 555px;
+                            height: 55px;   
+                            display: flex;
+                            justify-content: space-evenly;
+                            left: 32%;
+                             top: 880%;
+                            }
+/*=========   footer-------===========================*/
+
+
+.footer{
+    width: 100%;
+    height: 80vh;
+    background: black;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.footer h6{
+    font-weight: bolder;
+    color: #ccc;
+    line-height: 35px;
+    font-size:small;
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 20px;
+line-height: 20px;
+}
+.section-1 h1{
+    position: absolute;
+    
+    top: 10%;
+    left: 44%;
+    font-size: 55px;
+}
+
+.section-1 h3{
+    position: absolute;
+    font-size: 25px;
+    top: 23%;
+    left: 38%;
+    /* font-size: 55px; */
+}
+.section2 h1{
+    position: absolute;
+    
+    top: 110%;
+    left: 44%;
+    font-size: 55px;
+}
+
+.section2 h3{
+    position: absolute;
+    font-size: 25px;
+    top: 123%;
+    left: 45%;
+     
+}
+.section3 h1{
+   position: absolute;
+   
+   top: 210%;
+   left: 44%;
+   font-size: 55px;
+}
+
+.section3 h3{
+   position: absolute;
+   font-size: 25px;
+   top: 223%;
+   left: 45%;
+    
+}
+
+.section4 h1{
+   position: absolute;
+   color: #fff;
+   top: 310%;
+   left: 44%;
+   font-size: 55px;
+}
+
+.section4 h3{
+   position: absolute;
+   font-size: 25px;
+   top: 323%;
+   left: 45%;
+   color: #fff;
+    
+}
+.section6 h1{
+   position: absolute;
+   color: #fff;
+   top: 510%;
+   left: 40%;
+   font-size: 55px;
+}
+
+.section6 h3{
+   position: absolute;
+   font-size: 25px;
+   top: 523%;
+   left: 38%;
+   color: #fff;
+    
+}
+.section7 h1{
+   position: absolute;
+   
+   top: 610%;
+   left: 40%;
+   font-size: 55px;
+}
+
+.section7 h3{
+   position: absolute;
+   font-size: 25px;
+   top: 623%;
+   left: 36%;
+   
+    
+}
+.section8 h1{
+   position: absolute;
+   
+   top: 710%;
+   left: 40%;
+   font-size: 55px;
+}
+
+.section9 h1{
+   position: absolute;
+   
+   top: 810%;
+   left: 40%;
+   font-size: 55px;
+}
+
